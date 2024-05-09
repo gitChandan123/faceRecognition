@@ -22,8 +22,7 @@
 ## Installation
 1. Clone this repository:
 
-bash
-git clone https://github.com/gitChandan123/real-time-face-attendance-system.git
+git clone <https://github.com/gitChandan123/real-time-face-attendance-system.git>
 Install the required dependencies:
 Copy code
 pip install opencv-python numpy face-recognition firebase-admin cvzone
