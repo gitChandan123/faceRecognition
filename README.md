@@ -25,13 +25,18 @@
      2. [Install the Git Version Control]( https://git-scm.com/)
      3. [Istall Pip (Packet Manager)](https://pip.pypa.io/en/stable/installation/)
 ## Usage
-Run the Python script:
+1. Run the Python script:
 
 python face_attendance_system.py
-Ensure that a webcam is connected to your system. The program will capture the video stream from the webcam and display the real-time face recognition system.
-As faces are detected, the system will attempt to match them with known students' faces stored in the database. If a match is found, the student's information will be displayed, and their attendance status will be updated accordingly.
-You can switch between different display modes by pressing certain keys or through user interaction.
-Configuration
+
+2. Ensure that a webcam is connected to your system. The program will capture the video stream from the webcam and display the real-time face recognition system.
+
+3. As faces are detected, the system will attempt to match them with known students' faces stored in the database. If a match is found, the    student's information will be displayed, and their attendance status will be updated accordingly.
+
+4. You can switch between different display modes by pressing certain keys or through user interaction.
+
+
+## Configuration
 Update the EncodeFile.p file with the encodings of known faces.
 Adjust the paths and filenames in the code according to your directory structure and file naming conventions.
 Customize the Firebase database structure and storage paths as needed.
