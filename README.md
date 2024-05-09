@@ -17,13 +17,13 @@
 - Face Recognition Library (face_recognition)
 - Firebase Admin SDK
 - cvzone
-- Installation
 
 
-## Clone this repository:
+## Installation
+1. Clone this repository:
+
 bash
-Copy code
-git clone https://github.com/your_username/real-time-face-attendance-system.git
+git clone https://github.com/gitChandan123/real-time-face-attendance-system.git
 Install the required dependencies:
 Copy code
 pip install opencv-python numpy face-recognition firebase-admin cvzone
