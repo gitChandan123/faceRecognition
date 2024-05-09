@@ -21,8 +21,8 @@
 
 ## How to Install and Run this project?
    - ### Pre-Requisites:
-     [Intall the python latest version](https://www.python.org/downloads/)
-     [Install the Git Version Control]( https://git-scm.com/)
+     1. [Intall the python latest version](https://www.python.org/downloads/)
+     2.[Install the Git Version Control]( https://git-scm.com/)
 ## Usage
 Run the Python script:
 
