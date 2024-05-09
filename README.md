@@ -37,10 +37,12 @@ python face_attendance_system.py
 
 
 ## Configuration
-Update the EncodeFile.p file with the encodings of known faces.
-Adjust the paths and filenames in the code according to your directory structure and file naming conventions.
-Customize the Firebase database structure and storage paths as needed.
-License
-This project is licensed under the MIT License.
+
+- Update the **'EncodeFile.p'** file with the encodings of known faces.
+  
+- Adjust the paths and filenames in the code according to your directory structure and file naming conventions.
+  
+- Customize the Firebase database structure and storage paths as needed.
+
 
 
