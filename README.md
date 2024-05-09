@@ -14,7 +14,7 @@
 - Python 3.x
 - OpenCV
 - Numpy
-- Face Recognition Library (face_recognition)
+- Face Recognition Library ('face_recognition')
 - Firebase Admin SDK
 - cvzone
 
@@ -23,13 +23,17 @@
 1. Clone this repository:
 
 git clone <https://github.com/gitChandan123/real-time-face-attendance-system.git>
-Install the required dependencies:
-Copy code
-pip install opencv-python numpy face-recognition firebase-admin cvzone
-Obtain the Firebase service account key (serviceAccountKey.json) and place it in the root directory of the project.
-Usage
+
+2. Install the required dependencies:
+
+**pip install opencv-python numpy face-recognition firebase-admin cvzone**
+
+3. Obtain the Firebase service account key (serviceAccountKey.json) and place it in the root directory of the project.
+
+
+## Usage
 Run the Python script:
-Copy code
+
 python face_attendance_system.py
 Ensure that a webcam is connected to your system. The program will capture the video stream from the webcam and display the real-time face recognition system.
 As faces are detected, the system will attempt to match them with known students' faces stored in the database. If a match is found, the student's information will be displayed, and their attendance status will be updated accordingly.
