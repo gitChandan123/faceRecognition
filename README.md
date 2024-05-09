@@ -27,7 +27,7 @@
 ## Usage
 1. Run the Python script:
 
-python face_attendance_system.py
+    - python face_attendance_system.py
 
 2. Ensure that a webcam is connected to your system. The program will capture the video stream from the webcam and display the real-time face recognition system.
 
