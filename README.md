@@ -20,7 +20,7 @@
 
 
 ## How to Install and Run this project?
-[Install Python latest version ](https://www.python.org/)
+[](https://www.python.org/)
 ## Usage
 Run the Python script:
 
