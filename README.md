@@ -2,13 +2,13 @@
 
 **This project is a real-time face attendance system using computer vision techniques and Firebase for data storage. The system recognizes faces in a live video stream, matches them with known students' faces, and updates their attendance records in a Firebase database.**
 
-##Features##
+##Features
 - **Face Recognition**: Utilizes the face_recognition library to detect and recognize faces in real-time.
 - **Firebase Integration**: Stores student information and attendance records in a Firebase real-time database.
 - **Dynamic UI**: Displays student information and updates attendance status dynamically on the screen.
 - **Mode Switching**: Supports switching between different display modes for better user interaction.
 
-##Requirements##
+##Requirements
 Python 3.x
 OpenCV
 Numpy
