@@ -23,7 +23,7 @@
    - ### Pre-Requisites:
      1. [Intall the python latest version](https://www.python.org/downloads/)
      2. [Install the Git Version Control]( https://git-scm.com/)
-     3. [Istall Pip (Packet Manager)](https://pip.pypa.io/en/stable/installation/)
+     3. [Install Pip (Packet Manager)](https://pip.pypa.io/en/stable/installation/)
 ## Usage
 1. Run the Python script:
 
