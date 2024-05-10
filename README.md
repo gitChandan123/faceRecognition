@@ -31,7 +31,7 @@
 
 2. Ensure that a webcam is connected to your system. The program will capture the video stream from the webcam and display the real-time face recognition system.
 
-3. As faces are detected, the system will attempt to match them with known students' faces stored in the database. If a match is found, the    student's information will be displayed, and their attendance status will be updated accordingly.
+3. As faces are detected, the system will attempt to match them with known student's faces stored in the database. If a match is found, the    student's information will be displayed, and their attendance status will be updated accordingly.
 
 4. You can switch between different display modes by pressing certain keys or through user interaction.
 
@@ -44,5 +44,5 @@
   
 - Customize the Firebase database structure and storage paths as needed.
 
-
+## 
 
