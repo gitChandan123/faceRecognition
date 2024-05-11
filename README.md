@@ -11,7 +11,7 @@
 
 
 ## Requirements
-- Python 3.x
+- Python 3.X
 - OpenCV
 - Numpy
 - Face Recognition Library ('face_recognition')
