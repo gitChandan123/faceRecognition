@@ -19,7 +19,7 @@
 - cvzone
 
 
-## How to Install and Run this project?
+## How do I install and run this project?
    - ### Pre-Requisites:
      1. [Intall the python latest version](https://www.python.org/downloads/)
      2. [Install the Git Version Control]( https://git-scm.com/)
@@ -44,5 +44,6 @@
   
 - Customize the Firebase database structure and storage paths as needed.
 
-## 
+## clone the repository
+git@github.com:gitChandan123/faceRecognition.git
 
