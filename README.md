@@ -45,5 +45,5 @@
 - Customize the Firebase database structure and storage paths as needed.
 
 ## clone the repository
-git@github.com:gitChandan123/faceRecognition.git
+   git@github.com:gitChandan123/faceRecognition.git
 
